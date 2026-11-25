@@ -5,3 +5,8 @@ print("student_name:",student_name)
 print("marks:",marks)
 name = input("Enter your name: ")
 print("Welcome to Git and GitHub", name)
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+
+print("Welcome", name)
+print("Your age is", age)
